@@ -10,4 +10,4 @@ Top list of GD plugins, libraries and assets
 - [Rayplacer](https://github.com/etodd/godot-rayplacer)
 - [Shaders from Miskatonic](https://github.com/miskatonicstudio/godot-experiments/tree/master/shaders)
 - https://github.com/2Retr0/GodotGrass
-- 
+- https://github.com/sphynx-owner/JFA_driven_motion_blur_addon?s=09
