@@ -11,6 +11,8 @@ Top list of GD plugins, libraries and assets
 - [Dialogic](https://github.com/dialogic-godot/dialogic) - Modular dialogue system for RPG, Visual Novels, etc
 - [Smash The Mesh](https://github.com/cloudofoz/godot-smashthemesh) - Add-on that allows you to break a 3D mesh into multiple pieces and then apply physics to each fragment
 - [SimpleDungeons](https://github.com/majikayogames/SimpleDungeons) - Godot 4 addon which allows for the creation of procedurally generated 3D dungeons/levels using user defined prefab rooms
+- [Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4
+- [TerraBrush](https://github.com/spimort/TerraBrush) - A minimal Terrain heightmap editor for Godot engine 4.3
 
 ## Additional resources:
 - [Ghost of Tsushima-like Grass for Godot](https://github.com/2Retr0/GodotGrass) - A grass rendering experiment in the Godot Engine inspired by techniques used in "Ghost of Tsushima"
