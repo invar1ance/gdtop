@@ -1,5 +1,5 @@
 # gdtop
-Top list of GD plugins, libraries and assets
+Top list of Godot plugins, libraries and assets
 
 ## Plugins/addons:
 - [Procedural tree generator](https://github.com/JekSun97/gdTree3D) - Plugin for procedural generation of 3D trees of varying complexity
