@@ -22,3 +22,4 @@ Top list of Godot plugins, libraries and assets
 ## Additional resources:
 - [GDExtension Info](https://github.com/3starblaze/gdextension-util) - A reference repository that documents Godot's GDExtension API and provides some C boilerplate
 - [Quadot Arena](https://github.com/TriggerCoder/Quadot-Arena) - Godot open-source port of Quake 3 engine
+- [Radiance Cascades](https://github.com/Sohojoe/radiance-cascades-godot) - radiance cascades implementation
