@@ -13,11 +13,14 @@ Top list of Godot plugins, libraries and assets
 - [SimpleDungeons](https://github.com/majikayogames/SimpleDungeons) - Godot 4 addon which allows for the creation of procedurally generated 3D dungeons/levels using user defined prefab rooms
 - [Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4
 - [TerraBrush](https://github.com/spimort/TerraBrush) - A minimal Terrain heightmap editor for Godot engine 4.3
+- [Godot Screen Effects](https://github.com/ioannis-koukourakis/godot_screen_effects/tree/main) - Full screen effects for Godot 4
+- [Embed Game](https://fabimakesgames.itch.io/embedgame) - A plugin that allows you to embed your running game in Godot's Main Editor
 
 ## Shaders\VFX:
 - [Lens Flare effect](https://godotshaders.com/shader/screen-space-lens-flare-with-rainbow-colored-effect/)
 - [Ghost of Tsushima-like Grass for Godot](https://github.com/2Retr0/GodotGrass) - A grass rendering experiment in the Godot Engine inspired by techniques used in "Ghost of Tsushima"
 - [Miskatonic Shader Pack](https://github.com/miskatonicstudio/godot-experiments/tree/master/shaders) - A collection of simple experiments in Godot Engine
+- [Godot Ocean Waves](https://github.com/2Retr0/GodotOceanWaves/) - FFT-based ocean-wave rendering, implemented in Godot
 
 ## Additional resources:
 - [GDExtension Info](https://github.com/3starblaze/gdextension-util) - A reference repository that documents Godot's GDExtension API and provides some C boilerplate
