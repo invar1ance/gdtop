@@ -15,6 +15,7 @@ Top list of Godot plugins, libraries and assets
 - [TerraBrush](https://github.com/spimort/TerraBrush) - A minimal Terrain heightmap editor for Godot engine 4.3
 - [Godot Screen Effects](https://github.com/ioannis-koukourakis/godot_screen_effects/tree/main) - Full screen effects for Godot 4
 - [Embed Game](https://fabimakesgames.itch.io/embedgame) - A plugin that allows you to embed your running game in Godot's Main Editor
+- [SteamNetGodot](https://github.com/OverfortGames/SteamNetGodot) - Networking solution for the wonderful Godot engine
 
 ## Shaders\VFX:
 - [Lens Flare effect](https://godotshaders.com/shader/screen-space-lens-flare-with-rainbow-colored-effect/)
