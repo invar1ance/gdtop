@@ -22,8 +22,12 @@ Top list of Godot plugins, libraries and assets
 - [Ghost of Tsushima-like Grass for Godot](https://github.com/2Retr0/GodotGrass) - A grass rendering experiment in the Godot Engine inspired by techniques used in "Ghost of Tsushima"
 - [Miskatonic Shader Pack](https://github.com/miskatonicstudio/godot-experiments/tree/master/shaders) - A collection of simple experiments in Godot Engine
 - [Godot Ocean Waves](https://github.com/2Retr0/GodotOceanWaves/) - FFT-based ocean-wave rendering, implemented in Godot
+- [Godot Water Shader](https://github.com/Flarkk/Godot-Water-Shader-Prototype)
 
 ## Additional resources:
 - [GDExtension Info](https://github.com/3starblaze/gdextension-util) - A reference repository that documents Godot's GDExtension API and provides some C boilerplate
 - [Quadot Arena](https://github.com/TriggerCoder/Quadot-Arena) - Godot open-source port of Quake 3 engine
 - [Radiance Cascades](https://github.com/Sohojoe/radiance-cascades-godot) - radiance cascades implementation
+
+## Templates
+- [Advanced Movement System](https://github.com/ywmaa/Advanced-Movement-System-Godot?s=09) - This project is a template for creating advanced Third/First Person movement in GODOT
