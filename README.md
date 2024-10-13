@@ -16,6 +16,7 @@ Top list of Godot plugins, libraries and assets
 - [Godot Screen Effects](https://github.com/ioannis-koukourakis/godot_screen_effects/tree/main) - Full screen effects for Godot 4
 - [Embed Game](https://fabimakesgames.itch.io/embedgame) - A plugin that allows you to embed your running game in Godot's Main Editor
 - [SteamNetGodot](https://github.com/OverfortGames/SteamNetGodot) - Networking solution for the wonderful Godot engine
+- [Hoodie](https://github.com/GreenCrowDev/hoodie) - Hoodie is a plugin for Godot Engine 4 that offers a visual scripting interface for generating procedural geometry
 
 ## Shaders\VFX:
 - [Lens Flare effect](https://godotshaders.com/shader/screen-space-lens-flare-with-rainbow-colored-effect/)
