@@ -32,3 +32,6 @@ Top list of Godot plugins, libraries and assets
 
 ## Templates
 - [Advanced Movement System](https://github.com/ywmaa/Advanced-Movement-System-Godot?s=09) - This project is a template for creating advanced Third/First Person movement in GODOT
+
+## Editor Themes
+- [Minimal Theme](https://github.com/passivestar/godot-minimal-theme) - minimalistic godot theme
