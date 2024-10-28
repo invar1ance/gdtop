@@ -24,6 +24,7 @@ Top list of Godot plugins, libraries and assets
 - [Miskatonic Shader Pack](https://github.com/miskatonicstudio/godot-experiments/tree/master/shaders) - A collection of simple experiments in Godot Engine
 - [Godot Ocean Waves](https://github.com/2Retr0/GodotOceanWaves/) - FFT-based ocean-wave rendering, implemented in Godot
 - [Godot Water Shader](https://github.com/Flarkk/Godot-Water-Shader-Prototype)
+- [Realtime Caustics](https://github.com/paddy-exe/Godot-RealTimeCaustics) - RealTime-ish Caustics in the Godot Game Engine
 
 ## Additional resources:
 - [GDExtension Info](https://github.com/3starblaze/gdextension-util) - A reference repository that documents Godot's GDExtension API and provides some C boilerplate
