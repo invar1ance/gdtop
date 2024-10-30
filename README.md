@@ -8,6 +8,7 @@ Top list of Godot plugins, libraries and assets
 - [Motion Blur](https://github.com/sphynx-owner/JFA_driven_motion_blur_addon) - An addon containing a jump flood algorithm driven motion blur compositor effect for Godot 4.3 beta
 - [Playtest Telemetry](https://github.com/etodd/playtest-telemetry-godot) - A Godot plugin for collecting playtest telemetry and submitting it to a server
 - [Rayplacer](https://github.com/etodd/godot-rayplacer) - A simple tool to place assets on collision meshes
+- [AssetPlacer](https://cookiebadger.itch.io/assetplacer) - tool for level design asset placement
 - [Dialogic](https://github.com/dialogic-godot/dialogic) - Modular dialogue system for RPG, Visual Novels, etc
 - [Smash The Mesh](https://github.com/cloudofoz/godot-smashthemesh) - Add-on that allows you to break a 3D mesh into multiple pieces and then apply physics to each fragment
 - [SimpleDungeons](https://github.com/majikayogames/SimpleDungeons) - Godot 4 addon which allows for the creation of procedurally generated 3D dungeons/levels using user defined prefab rooms
@@ -18,6 +19,7 @@ Top list of Godot plugins, libraries and assets
 - [Embed Game](https://fabimakesgames.itch.io/embedgame) - A plugin that allows you to embed your running game in Godot's Main Editor
 - [SteamNetGodot](https://github.com/OverfortGames/SteamNetGodot) - Networking solution for the wonderful Godot engine
 - [Hoodie](https://github.com/GreenCrowDev/hoodie) - Hoodie is a plugin for Godot Engine 4 that offers a visual scripting interface for generating procedural geometry
+- [HengoScript](https://hengoscript.com/) - Visual scripting for Godot
 
 ## Shaders\VFX:
 - [Lens Flare effect](https://godotshaders.com/shader/screen-space-lens-flare-with-rainbow-colored-effect/)
