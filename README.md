@@ -12,6 +12,7 @@ Top list of Godot plugins, libraries and assets
 - [Smash The Mesh](https://github.com/cloudofoz/godot-smashthemesh) - Add-on that allows you to break a 3D mesh into multiple pieces and then apply physics to each fragment
 - [SimpleDungeons](https://github.com/majikayogames/SimpleDungeons) - Godot 4 addon which allows for the creation of procedurally generated 3D dungeons/levels using user defined prefab rooms
 - [Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable terrain system for Godot 4
+- [MTerrain](https://github.com/mohsenph69/Godot-MTerrain-plugin) - A GDExtension plugin which give godot the ability to produce highly optimized Terrain for Open world games
 - [TerraBrush](https://github.com/spimort/TerraBrush) - A minimal Terrain heightmap editor for Godot engine 4.3
 - [Godot Screen Effects](https://github.com/ioannis-koukourakis/godot_screen_effects/tree/main) - Full screen effects for Godot 4
 - [Embed Game](https://fabimakesgames.itch.io/embedgame) - A plugin that allows you to embed your running game in Godot's Main Editor
